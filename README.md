@@ -8,6 +8,6 @@
 
 ## A faire :
 - modifier le guide d'utilisation avec la nouvelle fonctionalité 
-- mise aus normes du texte 
+- mise aux normes du texte 
 - mise aux norme des couleurs
 - revoir pour ajouter des fonctionalités pour améliorer l'utilisation
