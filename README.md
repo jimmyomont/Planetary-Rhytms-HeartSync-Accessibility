@@ -8,10 +8,10 @@ Je souhaite developper cette application dans le but d'offrir une expérience ac
 
 ### Objectifs : 
 - [x] La gestion des événements clavier pour les boutons de lecture et de pause  pour intéragir au clavier avec l'application 
-- [ en cours ] Ajout d'attributs ``aria-label`` et ``Aria-hidden``pour fournir des étiquettes descriptives et masquer des éléments visuels du contenu lorsque nécessaire.
-- [ en cours ] Icone et texte alternatif pour représenter différents thèmes mais également des textes alternatifs appropriés avec l'attribut ``alt``
 - [x] Signal sonor pendant l'animation pour determiné le debut et la fin de l'inspiration et expiration 
-- [x] Signal sonor pour indiquer la fin du timer 
+- [x] Signal sonor pour indiquer la fin du timer
+- [ en cours ] Ajout d'attributs ``aria-label`` et ``Aria-hidden``pour fournir des étiquettes descriptives et masquer des éléments visuels du contenu lorsque nécessaire.
+- [ en cours ] Icone et texte alternatif pour représenter différents thèmes mais également des textes alternatifs appropriés avec l'attribut ``alt`` 
 - [ à faire ] Guide d'utilisation su rles fonctionalité Accessible
 
 ### Technologies Utilisées pour l'Accessibilité :
