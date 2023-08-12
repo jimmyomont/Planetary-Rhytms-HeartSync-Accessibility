@@ -1,6 +1,6 @@
 # Rythmes planétaires : HeartSync (version 2 accessibilité )
 
-## [Lien vers HeartSync(accessibility)](https://planetary-rhytms-heartsync-accessibility.vercel.app/)
+## [Lien vers HeartSync(accessibility)](https://planetary-rhytms-heart-sync-accessibility.vercel.app/)
 
 ## Présentation du Projet sur l'Accessibilité :
 
