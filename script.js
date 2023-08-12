@@ -159,7 +159,7 @@ btn.addEventListener('click', () => {
 
 let temps = 60;
 let isBeepPlayed = false;
-beep.volume = 0.1; // Réduire le volume 
+beep.volume = 0.1;
 function diminuerTimer() {
     setInterval(timer, 1000);
 }
@@ -173,11 +173,8 @@ const timer = () => {
     if (minutes === '00' && secondes === '00' && !isBeepPlayed) {
         svg.classList.add('hidden');
         document.getElementById('end').classList.remove('hidden');
-        // Arrêter l'intervalle playBeep avant de jouer le son du bip
         clearInterval(playBeepInterval);
-        // Jouer le son du bip à la fin du cycle
         beep.play();
-        // Mettre à jour l'indicateur pour indiquer que le bip a été joué
         isBeepPlayed = true;
     }
 };
